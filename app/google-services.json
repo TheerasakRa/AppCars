@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "864551494787",
+    "firebase_url": "https://appcar-78000-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "appcar-78000",
+    "storage_bucket": "appcar-78000.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864551494787:android:59c283774e8916fa78e7b6",
+        "android_client_info": {
+          "package_name": "com.example.appcar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864551494787-5e5ap26f7euce168g3sfh8afa0rr8st1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0BQjhhpQer2wBny8bLUho5RrorF6_ZEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864551494787-5e5ap26f7euce168g3sfh8afa0rr8st1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
